@@ -1,0 +1,52 @@
+[submodule "user_service"]
+	path = user_service
+	url = https://github.com/yom-yoom/user_service
+	branch = Yom-stream9
+[submodule "project_service"]
+	path = project_service
+	url = https://github.com/yom-yoom/project_service
+	branch = Yom-stream9
+[submodule "post_service"]
+	path = post_service
+	url = https://github.com/yom-yoom/post_service
+	branch = Yom-master-stream9
+[submodule "url_shortener_service"]
+	path = url_shortener_service
+	url = https://github.com/yom-yoom/url_shortener_service
+	branch = Yom-master-stream9
+[submodule "hashtag_service"]
+	path = hashtag_service
+	url = https://github.com/yom-yoom/hashtag_service
+	branch = Yom-master-stream9
+[submodule "account_service"]
+	path = account_service
+	url = https://github.com/yom-yoom/account_service
+	branch = Yom-stream9
+[submodule "payment_service"]
+	path = payment_service
+	url = https://github.com/yom-yoom/payment_service
+	branch = Yom-stream9
+[submodule "notification_service"]
+	path = notification_service
+	url = https://github.com/yom-yoom/notification_service
+	branch = Yom-stream9
+[submodule "achievement_service"]
+	path = achievement_service
+	url = https://github.com/yom-yoom/achievement_service
+	branch = Yom-stream9
+[submodule "security_service"]
+	path = security_service
+	url = https://github.com/yom-yoom/security_service
+	branch = Yom
+[submodule "analytics_service"]
+	path = analytics_service
+	url = https://github.com/yom-yoom/analytics_service
+	branch = Yom-stream9
+[submodule "AI_service"]
+	path = AI_service
+	url = https://github.com/yom-yoom/AI_service
+	branch = Yom
+[submodule "infra_service"]
+	path = infra_service
+	url = https://github.com/yom-yoom/infra_service
+	branch = Yom-stream9
