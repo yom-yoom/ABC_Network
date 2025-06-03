@@ -16,21 +16,21 @@
 
 ## 📦 Сервисы
 
-| Сервис                | Назначение                          | Репозиторий                                                                |
-|-----------------------|-------------------------------------|----------------------------------------------------------------------------|
-| User Service          | Работа с пользователями             | [user_service](https://github.com/yom-yoom/user_service)                   |
-| Post Service          | Работа с постами и лентой новостей  | [post_service](https://github.com/yom-yoom/post_service)                   |
-| Url Shortener Service | Работа со ссылками пользователей    | [url_shortener_service](https://github.com/yom-yoom/url_shortener_service) |
-| Project Service       | Работа с проектами                  | [project_service](https://github.com/yom-yoom/project_service)             |
-| Hashtag Service       | Работа с хэш-тегами постов          | [hashtag_service](https://github.com/yom-yoom/hashtag_service)             |
-| Account Service       | Работа с аккаунтами                 | [account_service](https://github.com/yom-yoom/account_service)             |
-| Payment Service       | Работа с оплатой                    | [payment_service](https://github.com/yom-yoom/payment_service)             |
-| Notification Service  | Работа с нотификациями              | [notification_service](https://github.com/yom-yoom/notification_service)   |
-| Achievement Service   | Работа с достижениями               | [achievement_service](https://github.com/yom-yoom/achievement_service)     |
-| Analytics Service     | Работа с аналитикой                 | [analytics_service](https://github.com/yom-yoom/analytics_service)         |
-| Security Service      | Обеспечение безопасности            | [security_service](https://github.com/yom-yoom/security_service)           |
-| AI Service            | Внедрение искусственного интеллекта | [AI_service](https://github.com/yom-yoom/AI_service)                       |
-| Infra Service         | Общие файлы и настройки             | [infra_service](https://github.com/yom-yoom/infra_service)                 |
+| Сервис                | Назначение                          | Репозиторий                                                                | Главная ветка        |
+|-----------------------|-------------------------------------|----------------------------------------------------------------------------|----------------------|
+| User Service          | Работа с пользователями             | [user_service](https://github.com/yom-yoom/user_service)                   | Yom-stream9          |
+| Post Service          | Работа с постами и лентой новостей  | [post_service](https://github.com/yom-yoom/post_service)                   | Yom-master-stream9   |
+| Url Shortener Service | Работа со ссылками пользователей    | [url_shortener_service](https://github.com/yom-yoom/url_shortener_service) | Yom-master-stream9   |
+| Project Service       | Работа с проектами                  | [project_service](https://github.com/yom-yoom/project_service)             | Yom-stream9          |
+| Hashtag Service       | Работа с хэш-тегами постов          | [hashtag_service](https://github.com/yom-yoom/hashtag_service)             | Yom-master-stream9   |
+| Account Service       | Работа с аккаунтами                 | [account_service](https://github.com/yom-yoom/account_service)             | Yom-stream9          |
+| Payment Service       | Работа с оплатой                    | [payment_service](https://github.com/yom-yoom/payment_service)             | Yom-stream9          |
+| Notification Service  | Работа с нотификациями              | [notification_service](https://github.com/yom-yoom/notification_service)   | Yom-stream9          |
+| Achievement Service   | Работа с достижениями               | [achievement_service](https://github.com/yom-yoom/achievement_service)     | Yom-stream9          |
+| Analytics Service     | Работа с аналитикой                 | [analytics_service](https://github.com/yom-yoom/analytics_service)         | Yom-stream9          |
+| Security Service      | Обеспечение безопасности            | [security_service](https://github.com/yom-yoom/security_service)           | Yom                  |
+| AI Service            | Внедрение искусственного интеллекта | [AI_service](https://github.com/yom-yoom/AI_service)                       | Yom                  |
+| Infra Service         | Общие файлы и настройки             | [infra_service](https://github.com/yom-yoom/infra_service)                 | Yom-stream9          |
 
 ---
 
