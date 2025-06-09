@@ -10,7 +10,7 @@
 ![Архитектура взаимодействия компонентов в приложении](ABC_Network_architecture.png)
 
 - Message Queue: Kafka
-- Базы данных: PostgreSQL, Redis, Elasticsearch
+- Базы данных: PostgreSQL, Redis, Elasticsearch, Amazon S3
 
 ---
 
